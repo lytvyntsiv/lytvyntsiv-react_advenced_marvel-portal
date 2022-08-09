@@ -1,0 +1,41 @@
+{
+  "files": {
+    "static/js/0.e4532271.chunk.js": "/react_advenced_marvel-portal/static/js/0.e4532271.chunk.js",
+    "static/js/0.e4532271.chunk.js.map": "/react_advenced_marvel-portal/static/js/0.e4532271.chunk.js.map",
+    "main.css": "/react_advenced_marvel-portal/static/css/main.a20d106a.chunk.css",
+    "main.js": "/react_advenced_marvel-portal/static/js/main.a6458dfa.chunk.js",
+    "main.js.map": "/react_advenced_marvel-portal/static/js/main.a6458dfa.chunk.js.map",
+    "runtime-main.js": "/react_advenced_marvel-portal/static/js/runtime-main.4c7ba35b.js",
+    "runtime-main.js.map": "/react_advenced_marvel-portal/static/js/runtime-main.4c7ba35b.js.map",
+    "static/js/3.1c8f071b.chunk.js": "/react_advenced_marvel-portal/static/js/3.1c8f071b.chunk.js",
+    "static/js/3.1c8f071b.chunk.js.map": "/react_advenced_marvel-portal/static/js/3.1c8f071b.chunk.js.map",
+    "static/css/4.c0e7c20f.chunk.css": "/react_advenced_marvel-portal/static/css/4.c0e7c20f.chunk.css",
+    "static/js/4.1be495eb.chunk.js": "/react_advenced_marvel-portal/static/js/4.1be495eb.chunk.js",
+    "static/js/4.1be495eb.chunk.js.map": "/react_advenced_marvel-portal/static/js/4.1be495eb.chunk.js.map",
+    "static/css/5.18e2f0da.chunk.css": "/react_advenced_marvel-portal/static/css/5.18e2f0da.chunk.css",
+    "static/js/5.0b4a2e82.chunk.js": "/react_advenced_marvel-portal/static/js/5.0b4a2e82.chunk.js",
+    "static/js/5.0b4a2e82.chunk.js.map": "/react_advenced_marvel-portal/static/js/5.0b4a2e82.chunk.js.map",
+    "static/css/6.7cf17460.chunk.css": "/react_advenced_marvel-portal/static/css/6.7cf17460.chunk.css",
+    "static/js/6.dcdcb407.chunk.js": "/react_advenced_marvel-portal/static/js/6.dcdcb407.chunk.js",
+    "static/js/6.dcdcb407.chunk.js.map": "/react_advenced_marvel-portal/static/js/6.dcdcb407.chunk.js.map",
+    "static/js/7.28a4cdd4.chunk.js": "/react_advenced_marvel-portal/static/js/7.28a4cdd4.chunk.js",
+    "static/js/7.28a4cdd4.chunk.js.map": "/react_advenced_marvel-portal/static/js/7.28a4cdd4.chunk.js.map",
+    "index.html": "/react_advenced_marvel-portal/index.html",
+    "static/css/4.c0e7c20f.chunk.css.map": "/react_advenced_marvel-portal/static/css/4.c0e7c20f.chunk.css.map",
+    "static/css/5.18e2f0da.chunk.css.map": "/react_advenced_marvel-portal/static/css/5.18e2f0da.chunk.css.map",
+    "static/css/6.7cf17460.chunk.css.map": "/react_advenced_marvel-portal/static/css/6.7cf17460.chunk.css.map",
+    "static/css/main.a20d106a.chunk.css.map": "/react_advenced_marvel-portal/static/css/main.a20d106a.chunk.css.map",
+    "static/js/3.1c8f071b.chunk.js.LICENSE.txt": "/react_advenced_marvel-portal/static/js/3.1c8f071b.chunk.js.LICENSE.txt",
+    "static/media/Avengers.4065c8f9.png": "/react_advenced_marvel-portal/static/media/Avengers.4065c8f9.png",
+    "static/media/Avengers_logo.9eaf2193.png": "/react_advenced_marvel-portal/static/media/Avengers_logo.9eaf2193.png",
+    "static/media/error.42292aa1.gif": "/react_advenced_marvel-portal/static/media/error.42292aa1.gif",
+    "static/media/mjolnir.61f31e18.png": "/react_advenced_marvel-portal/static/media/mjolnir.61f31e18.png",
+    "static/media/vision.067d4ae1.png": "/react_advenced_marvel-portal/static/media/vision.067d4ae1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c7ba35b.js",
+    "static/js/3.1c8f071b.chunk.js",
+    "static/css/main.a20d106a.chunk.css",
+    "static/js/main.a6458dfa.chunk.js"
+  ]
+}

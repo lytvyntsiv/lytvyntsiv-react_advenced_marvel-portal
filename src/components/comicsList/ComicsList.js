@@ -62,7 +62,7 @@ const ComicsList = (props) => {
             props.onCharSelected(item.id);
             focusOnItem(i);
           }}}>
-        <Link to={`/comics/${item.id}`}>
+        <Link to={`/react_advenced_marvel-portal/comics/${item.id}`}>
           <img src={item.thumbnail} alt="ultimate war" className="comics__item-img"/>
           <div className="comics__item-name">{item.title}</div>
           <div className="comics__item-price">{item.price}</div>

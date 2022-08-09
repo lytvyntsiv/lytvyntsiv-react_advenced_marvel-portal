@@ -15,7 +15,7 @@ const AppHeader = () => {
           <li>
             <NavLink 
               style={({isActive}) => ({color: isActive ? '#9f0014' : 'inherit'})}
-              to="/">
+              to="react_advenced_marvel-portal">
                 Characters
             </NavLink>
           </li>
